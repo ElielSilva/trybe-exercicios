@@ -4,6 +4,7 @@ header{
 }
 h2{
   font-family: "Roboto","Helvetica","Arial",sans-serif;
+  color: rgb(31, 88, 211);
 }
 nav li{
   display: inline-block;
@@ -12,10 +13,10 @@ ul {
   border: solid black;
   background-color: greenyellow;
 }
-#main-article{
+.section-main{
   margin: 0;
   border:solid blueviolet;
-  background-color: blue;
+  background-color: ;
   /* float: right */
 }
 #article2 {
