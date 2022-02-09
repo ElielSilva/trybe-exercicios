@@ -1,0 +1,58 @@
+header{
+  border: solid black;
+  background-color: burlywood;
+}
+h2{
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  color: rgb(31, 88, 211);
+}
+nav li{
+  display: inline-block;
+}
+ul {
+  border: solid black;
+  background-color: greenyellow;
+}
+.section-main{
+  margin: 0;
+  border:solid blueviolet;
+  background-color: ;
+  /* float: right */
+}
+#article2 {
+  
+  left:;
+  max-width: 75%;
+}
+
+img{
+  width: 260px;
+}
+
+aside {
+  float: left;
+  /* right: 850px; */
+  margin: 0;
+  padding: 0;
+  max-width: 20%;
+  height: px;
+  border: solid black;
+  background-color: brown;
+
+  
+  
+}
+
+main {
+  float: right;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  max-width: 75%;
+  
+  background-color: darkkhaki;
+}
+#section-footer{
+  background-color: chartreuse;
+  border: solid black;
+}
