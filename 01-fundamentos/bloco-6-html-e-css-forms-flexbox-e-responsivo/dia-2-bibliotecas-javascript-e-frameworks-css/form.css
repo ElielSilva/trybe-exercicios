@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  padding: 10px;
+  font-size: 40px;
+
+}
+header  {
+  /* text-align:; */
+  padding: 10px;
+  margin: 10px;
+}
+
+section  {
+  border: solid black;
+  width: 800px;
+  height: 500px;
+  /* text-align: ; */
+
+}
+
+input {
+  margin: 5px;
+  padding: 7px;
+}
+
+/* div{ */
+
+/* } */
+#formList {
+  margin-left: 30px;
+  margin-right: auto;
+}
+
+#listOpcao {
+  margin: 0px;
+  padding: 10px;
+}
+
+#buttonEnivarApagaer  {
+  margin: 30px;
+  border-radius: 50px;
+}
+#buttonEnivarApagaer input  {
+  border-radius: 10px;
+}
+
+div {
+  margin: 30px;
+}
+
+textarea  {
+  resize: none;
+}
