@@ -1,0 +1,50 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body  {
+  margin-left: 10px;
+}
+
+header  {
+  /* position: absolute; */
+  background-color: black;
+  color: rgb(129, 74, 74);
+}
+
+header p  {
+  font-size: 50px;
+  font-family: 'Indie Flower', cursive;
+}
+
+nav {
+  margin-top: 100px;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+aside {
+  /* max-width: 30px; */
+  border: solid green;
+}
+
+article p {
+  max-width: 1200px;
+}
+
+#aside {
+  float: right;
+}
+
+
+footer {
+  text-align: center;
+
+}
